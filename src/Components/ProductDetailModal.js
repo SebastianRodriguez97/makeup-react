@@ -25,10 +25,10 @@ export default function ProductDetailModal({ item, showModal, closeModal }) {
                 <Modal.Body>
                     <Container>
                         <Row>
-                            <Col xs={ 6 } sm={ 4 }>
+                            <Col sm={ 4 }>
                                 <Card.Img variant="top" src={ item.api_featured_image } alt="No Image" />
                             </Col>
-                            <Col xs={ 6 } sm={ 8 }>
+                            <Col sm={ 8 }>
                                 <ModalInfo>
                                     <div dangerouslySetInnerHTML={ { __html: item.description } }></div>
                                     { item.product_colors.length > 0 &&
