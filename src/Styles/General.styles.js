@@ -21,10 +21,10 @@ export const GridCards = styled.div`
     }
 
     @media (max-width: 500px) { 
-            display: flex!important;
-            flex-direction: column;
-            align-items: center;
-        }
+        display: flex!important;
+        flex-direction: column;
+        align-items: center;
+    }
 `;
 
 export const Backdrop = styled.div`
