@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Public Website
 
-You can find this project running on: [makeup-react.vercel.app](makeup-react.vercel.app)
+You can find this project running on: [https://makeup-react.vercel.app](https://makeup-react.vercel.app/)
 # makeup-react
